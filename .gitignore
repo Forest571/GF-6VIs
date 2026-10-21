@@ -1,0 +1,38 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Test and tooling caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local data and generated outputs
+data/
+outputs/
+*.tif
+*.tiff
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
